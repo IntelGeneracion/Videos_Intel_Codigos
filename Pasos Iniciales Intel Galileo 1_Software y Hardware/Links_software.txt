@@ -1,0 +1,35 @@
+Descripción de los paquetes de software bajo windows más relevantes para el manejo de la tarjeta galileo.
+
+ultima actualización de link Fecha: 27/05/2016
+
+Sección Software:
+
+Intel Galileo software package 1.0.4
+Intel Arduino IDE v1.5.3  
+
+Anterior:
+http://www.intel.com/content/www/us/en/support.html
+Actual:
+https://downloadcenter.intel.com/product/78919/Intel-Galileo-Board
+
+Putty:
+
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+WinSCP:
+
+https://winscp.net/eng/index.php
+
+Angry IP Scanner:
+
+http://angryip.org/
+
+SD Formatter:
+
+https://www.sdcard.org/downloads/formatter_4/eula_windows/index.html
+
+win32diskimager:
+
+https://sourceforge.net/projects/win32diskimager/
+
+
