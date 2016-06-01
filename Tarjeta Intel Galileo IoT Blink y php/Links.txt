@@ -1,0 +1,10 @@
+imagen galileo debian 1.2 :
+
+https://sourceforge.net/projects/galileodebian/files/SD%20card%20Image/
+
+
+usuario : root
+contraseña :root
+
+
+

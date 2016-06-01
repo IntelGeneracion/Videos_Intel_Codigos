@@ -1,0 +1,1 @@
+SUBSYSTEM=="gpio", ACTION=="add", PROGRAM="/bin/sh -c 'chown -R root:gpio /sys%p; chown -R root:gpio /sys/class/gpio; chmod -R 775 /sys%p; chmod -R 775 /sys/class/gpio'"

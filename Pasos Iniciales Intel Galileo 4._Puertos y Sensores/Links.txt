@@ -1,0 +1,5 @@
+
+SD-Card Linux* Image
+
+http://www.intel.com/content/www/us/en/support/boards-and-kits/intel-galileo-boards/000005614.html
+
